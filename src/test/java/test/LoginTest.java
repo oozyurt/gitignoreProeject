@@ -38,6 +38,7 @@ public class LoginTest {
     @Test
     public void LogOut(){
 
+        System.out.println("Test for branch");
 
     }
 
