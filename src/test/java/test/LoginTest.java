@@ -15,6 +15,8 @@ import java.util.concurrent.TimeUnit;
 
 public class LoginTest {
 
+    //login tests are maintened here. without page Object approach
+
     WebDriver driver;
 
     @BeforeMethod
@@ -56,6 +58,7 @@ public class LoginTest {
     public void TearDown(){
         driver.close();
     }
+
 
 
 }
